@@ -2,165 +2,183 @@
 # Display name
 title: Brandon Win Thint
 
-
 # Name pronunciation (optional)
-name_pronunciation: Rhymes with mint 🌿
-
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Brandon
 last_name: Thint
 
-
 # Status emoji
 status:
   icon: ☕️
 
-
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
 # Role/position/tagline
-role: Data Scientist
-
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
-organizations: ''
-
+organizations:
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:bwthint@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/bwthint
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/brandon-win-thint-537534195/
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: M.A. Psychological Research
-    institution: Texas State University
-    date_start: 2023-08-01
-    date_end: 2025-05-1
-    summary: |
-      GPA: 3.8/4.0
-      Capstone:
-      _Golden Years_: A biopsychosocial assessment of quality-of-life in middle and older-adults. Supervised by [Prof Krista Howard](https://faculty.txst.edu/profile/1922262)
-      Courses included:
-      - Advanced Statistical Methods (R)
-      - Python Computing for Data Analytics
-      - Health Informatics and Data Visualization
-
-
-  - area: B.S.A. Neuroscience
-    institution: The University of Texas at Austin
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.6/4.0
-      - Capstone: Cabin Fever: An Evaluation of Depression Symptoms During COVID-19 Pandemic.
-      - Biomedicine, Ethics, & Culture
-      - Analytical Skepticism (Research Methods)
-
-
-research:
-  - position: Graduate Research Assistant
-    company_name: Texas State University
-    company_url: 'https://www.psych.txst.edu/'
-    company_logo: ''
-    date_start: 2023-08-01
-    date_end: 2025-05-01
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Conducted data cleaning and statistical analysis on 1,000+ survey responses using R and Qualtrics.
-      - Generated robust datasets and developed visualizations to effectively communicate research findings to stakeholders.
-      - Mentored undergraduate students in data analysis, research poster design, and presentation skills for Honors theses.
+      GPA: 3.8/4.0
 
-
-  - position: Research Assistant
-    company_name: Daily Activty Lab
-    company_url: 'https://labs.la.utexas.edu/dailyactivitylab/'
-    company_logo: ''
-    date_start: 2021-08-01
-    date_end: 2023-05-31
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Annotated and analyzed high density audio home recording datasets, resulting in several national conference presentations.
-      - Translated MATLAB scripts to open-source R to improve accessibility and reproducibility in data science education.
-
-
-  - position: Research Assistant
-    company_name: Project LIBRA
-    company_url: 'https://sites.utexas.edu/projectlibra/'
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
     company_logo: ''
-    date_start: 2021-08-01
-    date_end: 2022-12-31
-    summary: |
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
       Responsibilities include:
-      - Oversaw project development of a longitudinal study on 300+ adolescents.
-      - Collected and processed biological samples and maintained research logs in accordance with IRB protocols.
-
-
-  - position: Capstone Researcher
-    company_name: Bridging Disciplines Program
-    company_url: 'https://undergradcollege.utexas.edu/academics/bridging-disciplines-programs'
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
     company_logo: ''
-    date_start: 2020-08-01
+    date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Constructed a psychometric scale to evaluate adherence to COVID-19 safety protocol.
-      - Surveyed and analyzed psychosocial outcomes in 300+ undergraduate students.
-
-
-work:
-  - position: Statistics Lecturer
-    company_name: Texas State University
-    company_url: 'https://www.psych.txst.edu/'
-    company_logo: ''
-    date_start: 2024-08-01
-    date_end: 2025-05-01
-    summary: |
-      Responsibilities include:
-      - Delivered weekly lectures and developed assignments covering descriptive and inferential statistics for hands-on instruction using SPSS.
-      - Refined curriculum based on student feedback and departmental learning outcomes to improve statistical literacy.
-
-
-  - position: Graduate Database Admin
-    company_name: Curriculum Services, Texas State University
-    company_url: 'https://www.txst.edu/curriculumservices.html'
-    company_logo: ''
-    date_start: 2024-01-01
-    date_end: 2024-4-01
-    summary: |
-      Responsibilities include:
-      - Managed and standardized university-wide academic program & course catalog databases, enhancing data integrity through standardized data entry protocols with regular audits.
-      - Facilitated administrative meetings with the university faculty for updates on university course guidelines and curriculum changes.
-
-
-  - position: Student Internship Admin
-    company_name: Dean of Students, The University of Texas at Austin
-    company_url: 'https://deanofstudents.utexas.edu/'
-    company_logo: ''
-    date_start: 2018-01-01
-    date_end: 2020-05-31
-    summary: |
-      Responsibilities include:
-      - Designed and implemented training programs and managed administrative tracking systems for a team of 30 undergraduate interns.
-      - Facilitated five-week leadership development courses for first year and international student cohorts by integrating experiential learning seminars with performance metrics.
-
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-Technical Skills:
-  - name: Programming
-    items: R, Python, SPSS, SQL, MATLAB
-  - name: Data Visualization
-    items: Tableau, PowerBI
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-07-01'
+    awarder: edX
+    icon: edx
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: 'Object-Oriented Programming in R'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
