@@ -16,9 +16,7 @@
 title: Brandon Win Thint, M.A.
 email: bwthint@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An academic portfolio and website for Brandon Win Thint.
 github_username: bwthint
 #twitter_username: username
 minimal_mistakes_skin: sunrise
@@ -62,7 +60,7 @@ author:
   avatar : "/assets/images/nycpic.png"
   bio    : "Recent graduate in Experimental Psychology interested in health research."
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/brandon-win-thint-537534195/"
 #    - label: "Twitter"
