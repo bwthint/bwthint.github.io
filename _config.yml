@@ -18,8 +18,7 @@ email: bwthint@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   An academic portfolio and website for Brandon Win Thint.
 github_username: bwthint
-twitter_username: username
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
@@ -63,27 +62,18 @@ author:
     - label: "LinkedIn"
       icon: "fas fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/brandon-win-thint-537534195/"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bwthint"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+     - label: "LinkedIn"
+      icon: "fas fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/brandon-win-thint-537534195/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bwthint"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
