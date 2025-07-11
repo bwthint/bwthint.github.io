@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.psych.txst.edu/'>Department of Psychology<br>Texas State University</a>.
+subtitle: <a href='https://www.psych.txst.edu/'>Department of Psychology<br>Texas State University</a>
 
 profile:
   align: right
