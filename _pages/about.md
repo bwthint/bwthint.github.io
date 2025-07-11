@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='https://www.psych.txst.edu/'>Department of Psychology<br>Texas State University</a>
 
